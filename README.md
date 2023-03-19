@@ -37,4 +37,4 @@ The following libraries are required to run MOFHY:
 The program is created and distributed by [Santy Designs](https://github.com/santydesignscr)
 
 ## Copyright
-Code ©️ Copyright 2022 MOFHY. Code released under the MIT license.
+Code ©️ Copyright 2022 MOFHY. Code released under the GPL-3.0 license.
