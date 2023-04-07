@@ -20,7 +20,7 @@ Encryption App features are listed below:
 - Load Password from encryptedt file
 
 ## Requirements
-Your server need to met minimal requirements to run Encryption App:
+Your computer need to met minimal requirements to run Encryption App:
 - Python 3.7 or above.
 
 ## Installation 
